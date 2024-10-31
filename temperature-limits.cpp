@@ -1,4 +1,3 @@
-
 #include "typewise-alert.h"
 
 // Temperature limits lookup table for each cooling type
