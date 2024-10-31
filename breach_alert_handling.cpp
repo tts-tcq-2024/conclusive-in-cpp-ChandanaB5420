@@ -1,4 +1,3 @@
-
 #include "typewise-alert.h"
 #include <stdio.h>
 
