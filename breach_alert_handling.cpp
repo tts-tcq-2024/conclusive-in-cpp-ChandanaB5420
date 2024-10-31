@@ -2,7 +2,7 @@
 #include "typewise-alert.h"
 #include <stdio.h>
 
-// Helper function to output to the controller (testable)
+// Helper function to output to the controller (testable
 void outputToController(unsigned short header, BreachType breachType) {
     printf("Header: %x, Breach Type: %d\n", header, breachType);
 }
