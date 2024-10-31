@@ -47,14 +47,14 @@ You have seen a few workflows in this repository. They are quality-gates to prev
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
 
 ### Over the next four weeks, I aim to elevate my code-quality practices by concentrating on the following key areas:
-1.**Implementation of Pure Functions**: I will concentrate on writing pure functions, as they enhance testability and improve the clarity and reasoning of the code.
+**1. Implementation of Pure Functions**: I will concentrate on writing pure functions, as they enhance testability and improve the clarity and reasoning of the code.
 
-2.**Comprehensive Code Reviews**: I will implement a thorough code review process for every piece of code developed, which will help identify issues early and promote adherence to best practices.
+**2. Comprehensive Code Reviews**: I will implement a thorough code review process for every piece of code developed, which will help identify issues early and promote adherence to best practices.
 
-3.**Adoption of Test-Driven Development(TDD)**: Embracing TDD will be a cornerstone of my approach, promoting the practice of writing tests prior to code implementation, which fosters greater reliability and superior design.
+**3. Adoption of Test-Driven Development(TDD)**: Embracing TDD will be a cornerstone of my approach, promoting the practice of writing tests prior to code implementation, which fosters greater reliability and superior design.
 
-4.**Enhanced Testing Effectiveness**: I will focus on refining my testing strategies to ensure that they are meaningful and encompass a diverse range of scenarios.
+**4. Enhanced Testing Effectiveness**: I will focus on refining my testing strategies to ensure that they are meaningful and encompass a diverse range of scenarios.
 
-5.**Modularity**: I will strive to structure my code into smaller, self-contained modules, facilitating easier maintenance and scalability.
+**5. Modularity**: I will strive to structure my code into smaller, self-contained modules, facilitating easier maintenance and scalability.
 
-6.**Rigorous Bug Detection through Testing**: I will prioritize robust testing methodologies to identify bugs effectively, ensuring comprehensive coverage of all potential edge cases.
+**6. Rigorous Bug Detection through Testing**: I will prioritize robust testing methodologies to identify bugs effectively, ensuring comprehensive coverage of all potential edge cases.
