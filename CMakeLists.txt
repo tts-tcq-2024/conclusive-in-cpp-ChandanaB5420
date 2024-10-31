@@ -18,9 +18,9 @@ enable_testing()
 add_compile_options("--coverage")
 add_executable(
   cleancode
-  temperature_limits.cpp
-  breach_inference.cpp
-  alert_handling.cpp
+  temperature-limits.cpp
+  breachtype_inference.cpp
+  breach_alert_handling.cpp
   main.cpp
   typewise-alert.tests.cpp
 )
